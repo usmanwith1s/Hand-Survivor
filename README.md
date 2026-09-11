@@ -68,9 +68,4 @@ This project uses the MediaPipe Hand Landmarker model for real-time hand trackin
 
 GitHub: [https://github.com/usmanwith1s](https://github.com/usmanwith1s)
 
-```
 
-
-
-Then click **Commit changes**. 🚀
-```
